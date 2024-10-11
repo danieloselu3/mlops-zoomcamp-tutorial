@@ -1,3 +1,3 @@
 # mlops-zoomcamp-tutorial
 
-Machine Learning Operations tutorial conducted by Zoomcamp
+Machine Learning Operations tutorial taught by Zoomcamp
